@@ -1,0 +1,14 @@
+{application, binlog_parser_demo,
+ [
+  {description, "A demo of binary parsing in Erlang"},
+  {vsn, "1"},
+  {modules, [
+             binlog_parser_demo
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
