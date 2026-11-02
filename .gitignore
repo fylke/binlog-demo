@@ -2,3 +2,5 @@ edoc
 ebin
 .eunit
 .rebar
+_build/
+rebar3.crashdump

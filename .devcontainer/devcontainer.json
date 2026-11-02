@@ -1,0 +1,13 @@
+{
+  "name": "binlog-demo",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "erlang-ls.erlang-ls"
+      ]
+    }
+  }
+}
